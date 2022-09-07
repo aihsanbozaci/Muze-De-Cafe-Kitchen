@@ -1,6 +1,11 @@
 # Muze-De-Cafe-Kitchen (in progress)
 Website with Admin Dashboard for Muze De Café Kitchen
 
+>Database name is "webproje"
+>>Username: admin
+>>
+>>Password: 123456
+
 
 ![Anasayfa-Slider](https://user-images.githubusercontent.com/82964908/188860604-0c15828f-26a9-4458-a95a-02ccc20d4d78.png)
 ![Anasayfa-Desc-Footer](https://user-images.githubusercontent.com/82964908/188860600-f34c2ced-eb5e-4559-9c1b-676396162869.png)
